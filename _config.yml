@@ -1,0 +1,20 @@
+title: James LeDoux
+description: >
+  **Hi, I'm James.** I like to write code and find patterns in data.
+copyright: Untitled
+sass:
+  sass_dir: assets/sass
+url: http://localhost:4000
+disqus_shortname: stratajekylldemo
+facebook_username:
+twitter_username: "jmzledoux"
+linkedin_username: "ledouxjames"
+instagram_username:
+pinterest_username:
+flickr_username:
+github_username:  "jldbc"
+feed_icon: rss
+email: "ledoux.james.r@gmail.com"
+gems: [jekyll-paginate]
+paginate_path: "/page/:num/"
+paginate: 5
