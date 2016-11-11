@@ -12,9 +12,9 @@ linkedin_username: "ledouxjames"
 instagram_username:
 pinterest_username:
 flickr_username:
-github_username:  "jldbc"
+github_username: "jldbc"
 feed_icon: rss
 email: "ledoux.james.r@gmail.com"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
-paginate: 5
+paginate: 10
