@@ -5,6 +5,32 @@
     {% include opengraph.html %}
     {% include twittercard.html %}
   </head>
+  <style>
+      header {
+        width: 640px;
+        margin: auto;
+      }
+      section {
+        width: 740px;
+        margin: auto;
+      }
+      section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+      }
+      section img {
+        max-width: 640px;
+      }
+      .aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+      }
+      .aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+      }
+      </style>
 	<body id="top">
 
 		{% include header.html %}
