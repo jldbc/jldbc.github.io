@@ -93,6 +93,7 @@ Simple, easy to follow value investing principles from a hedge fund manager.
 ## Work Rules! — Laszlo Bock
 
 How to fuel an organization through better human resources practices. Hiring, recruiting, and general people operations advice from Google’s SVP of People Ops.
+
 ## The Little Book that Beats the Market — Joel Greenblatt
 
 More value investing, this time greatly simplified. One of the most useful reads for an investor who is not a finance pro.
