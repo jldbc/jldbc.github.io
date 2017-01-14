@@ -1,7 +1,7 @@
 ---
 title: "Bookshelf"
 layout: post
-categories: personal, reading
+categories: personal reading
 excerpt: A collection of some of my favorite books. Business, popular economics, stats and machine learning, and some literature.
 ---
 A running list of books I’ve enjoyed, and a few quick thoughts on what I found worth sharing.
