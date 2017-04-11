@@ -110,7 +110,7 @@ Nabokov has a beautiful writing style, making the book hard to put down. It begi
 
 ## 1984 — George Orwell
 
-One of my all time favorites. Few books have inspired emotion in me the way this one has.
+One of my all time favorites.
 
 ## A Portrait of the Artist as a Young Man — James Joyce
 
@@ -118,7 +118,7 @@ One of my all time favorites. Few books have inspired emotion in me the way this
 
 ## To the Lighthouse — Virginia Woolf
 
-Another of my favorites on the literature side of things. Woolf’s style is incredibly poetic, bringing the traditional epic into the introspective world of thought and emotion.
+Another of my favorites on the literature side of things. Woolf’s style is fluid and  poetic, bringing the epic into the world of thought and everyday life.
 
 
 
