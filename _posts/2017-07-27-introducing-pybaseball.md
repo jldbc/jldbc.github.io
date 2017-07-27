@@ -86,7 +86,7 @@ Similarly, if you want player-level stats aggregated by season, you can pull 299
   </code>
 </pre>
 
-But wait, there's more! Say you're interested in comparing the performances of historic teams. That, too, is easy with pybaseball. With this package, one can disect the 1927 "Murderers Row" Yankees season with a single line of Python. 
+But wait, there's more! Say you're interested in comparing the performances of historic teams. That, too, is easy with pybaseball. With this package, one can dissect the 1927 "Murderers Row" Yankees season with a single line of Python. 
 
 <pre>
   <code class="python">
