@@ -6,6 +6,8 @@ excerpt: A collection of some of my favorite books. Business, popular economics,
 ---
 A running list of books I’ve enjoyed, and a few quick thoughts on what I found worth sharing.
 
+__Currently Reading:__ Bayesian Data Analysis, Analyzing Baseball Data with R
+
 # Data Science
 
 ## Introduction to Statistical Learning — James, Tibshirani, and Hastie
@@ -27,11 +29,10 @@ My life would have turned out quite different had it not been for Nate Silver an
 
 ## Big Data — Schonberger & Cukier
 
-A high-level overview of the ways big data could change various aspects of government and enterprise, and both the risks and sources of value that are associated with this. Do not expect technical depth, but the book is a good first read for the curious.
+A high-level overview of the ways big data could change various aspects of government and enterprise, and both the risks and sources of value that are associated with this.
 
 
-
-# Economics
+# Decision Science
 
 ## Misbehaving — Richard Thaler
 
@@ -41,17 +42,13 @@ This book covers the rise of behavioral economics from one of its earliest pract
 
 A layman’s version of the theories that laid the groundwork for behavioral economics. Kahneman explains the two chief mechanisms in our brains (fast and slow thought), and how they cause predictable biases.
 
+## Algorithms to Live By: the Computer Science of Human Decisions - Christian and Griffiths
+
+A psychology-computer science fusion piece on how fundamental computer science algorithms and data strucutres can aide decision making. A fun way to tie stacks, queues, sorting algorithms into your everyday life. 
+
 ## Freakonomics I & II — Levitt and Dubner
 
 My love for Steven Levitt’s work is second only to that for Nate Silver’s. Freakonomics showed me that the economics tool set can be used to advance causes much greater than economics itself. This has had a major impact on the way I have both applied and pushed the limits of my education as an economics student.
-
-## The Intelligent Investor — Benjamin Graham
-
-The bible for any value investor. Graham’s Mr. Market illustration remains relevant today.
-
-## Peddling Prosperity — Paul Krugman
-
-A breakdown of the dangers of journalist and pundit-fed pseudo-economics. Those who “peddle prosperity” in this way are seldom grounded in fact. This book breaks down the rise and farce of Reaganomics, and how to be weary of such false theories in the future.
 
 ## What Money Can’t Buy — Michael Sandel
 
@@ -61,8 +58,16 @@ A book on incentives, and how just about everything has a price tag if framed co
 
 A collection of posts from the Freakonomics blog strung together into a greater narrative. A nice mix of incentive schemes, economic ramblings, and musings on irrational behavior.
 
+## Grit - Angela Duckworth
+
+This book became the focus of a great deal of argument on my Twitter timeline at one point so I thought I'd check it out. Duckworth's research attempts to measure people's level of grittiness. An interesting body of work, but I think a reading of the the Musk and Bezos biographies teaches the same lesson while being a little more fun. 
+
 
 # Misc. Applied Statistics
+
+## The Book: Playing the Percentages in Baseball - Tango, Lichtman and Dolphin
+
+I was lucky enough to work with Tango while working as a statistician at MLB. This book is essentially the bible for a modern-day sabermetrician, answering baseball's most fundamental strategic questions with cold hard data. 
 
 ## Superforecasting: the Art and Science of Prediction — Phillip Tetlock
 
@@ -72,7 +77,15 @@ An engaging read for statheads and trivia fanatics. Tetlock draws from his exper
 
 The story of how Billy Beane’s Oakland A’s are able to build successful teams in one of baseball’s smallest markets. Lewis’ walk through the logic of sabermetrics and sorting signal from noise in baseball data was eye opening as a stats geek and sports fan alike.
 
-# Business
+# Business and Economics
+
+## The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone
+
+The rise of Bezos and Amazon. A handbook on long-term thinking and execution in complex environments. 
+
+## Elon Musk - Ashlee Vance
+
+Musk's success story seems similar to that of Bezos: defined by an obsessive focus on a small number of long-term goals and a superhuman work ethic.
 
 ## The Hard Thing About Hard Things — Ben Horowitz
 
@@ -86,6 +99,10 @@ A manual on how to build and scale an organization where innovation comes natura
 
 Peter Thiel’s thoughts on how to start a startup. This book is filled with wisdom on market positioning, culture, and overcoming the challenges of early-stage entrepreneurship.
 
+## Peddling Prosperity — Paul Krugman
+
+A breakdown of the dangers of journalist and pundit-fed pseudo-economics. The stories of those who “peddle prosperity” in this way are seldom grounded in facts. This book breaks down the rise and farce of Reaganomics, and how to be weary of such false theories in the future.
+
 ## The Dhando Investor — Mohnish Pabrai
 
 Simple, easy to follow value investing principles from a hedge fund manager.
@@ -96,16 +113,20 @@ How to fuel an organization through better human resources practices. Hiring, re
 
 ## The Little Book that Beats the Market — Joel Greenblatt
 
-More value investing, this time greatly simplified. One of the most useful reads for an investor who is not a finance pro.
+More value investing, this time greatly simplified. One of the most useful reads for an investor who is not a finance pro. 
+
+## The Intelligent Investor — Benjamin Graham
+
+The bible for any value investor. Graham’s Mr. Market illustration remains relevant today.
+
 
 # Literature
 
 ## Lolita — Vladimir Nabokov
 
-Nabokov has a beautiful writing style, making the book hard to put down. It begins with what is in my opinion one of the greatest (and creepiest, in context) opening paragraphs in all of literature:
+Bringing the reader into the mind of a pedophile, Nabokov combines a beautiful writing style with disturbing subject matter. The opening paragraph captures this well:
 
 > “Lolita, light of my life, fire of my loins. My sin, my soul. Lo-lee-ta: the tip of the tongue taking a trip of three steps down the palate to tap, at three, on the teeth. Lo. Lee. Ta. She was Lo, plain Lo, in the morning, standing four feet ten in one sock. She was Lola in slacks. She was Dolly at school. She was Dolores on the dotted line. But in my arms she was always Lolita.”
-
 
 
 ## 1984 — George Orwell
@@ -120,6 +141,7 @@ One of my all time favorites.
 
 Another of my favorites on the literature side of things. Woolf’s style is fluid and  poetic, bringing the epic into the world of thought and everyday life.
 
+__Updated:__ 8/1/17
 
 
 <div>
