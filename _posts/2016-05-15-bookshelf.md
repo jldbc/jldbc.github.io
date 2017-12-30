@@ -6,7 +6,7 @@ excerpt: A collection of some of my favorite books. Business, popular economics,
 ---
 A running list of books I’ve enjoyed, and a few quick thoughts on what I found worth sharing.
 
-__Currently Reading:__ Bayesian Data Analysis, Analyzing Baseball Data with R
+__Currently Reading:__ Bit by Bit: Social Research in the Digital Age
 
 # Data Science
 
@@ -22,10 +22,13 @@ A reliable book on the machine learning theory, approaching problems from a theo
 
 A wonderful balance of intuition and theory that the field has been lacking. Begins with the nuts and bolts of feedforward networks, and then goes into depth on the state of the art in model regularization, optimization, and various model classes and architectures. Not a light read, but highy recommended for an aspiring practitioner.
 
-
 ## The Signal and the Noise — Nate Silver
 
 My life would have turned out quite different had it not been for Nate Silver and this book. The Signal and the Noise helped me to discover my love for data science!
+
+## Analyzing Baseball Data with R - Albert and Marchi
+
+A reference book on sabermetrics with code samples in R. This book is useful to keep around when working with some of the main publicly-available baseball data sources such as Retrosheet and the Lahman database. 
 
 ## Big Data — Schonberger & Cukier
 
@@ -76,6 +79,10 @@ An engaging read for statheads and trivia fanatics. Tetlock draws from his exper
 ## Moneyball — Michael Lewis
 
 The story of how Billy Beane’s Oakland A’s are able to build successful teams in one of baseball’s smallest markets. Lewis’ walk through the logic of sabermetrics and sorting signal from noise in baseball data was eye opening as a stats geek and sports fan alike.
+
+## Chasing Perfection - Andy Clockner
+
+A mostly-qualitative run through the current state of basketball analytics, detailing recent phenomena such as the decline of the mid-range jumper, tanking for draft picks, and the specialized medical analyses being used to ensure player longevity. 
 
 # Business and Economics
 
@@ -141,7 +148,7 @@ One of my all time favorites.
 
 Another of my favorites on the literature side of things. Woolf’s style is fluid and  poetic, bringing the epic into the world of thought and everyday life.
 
-__Updated:__ 8/1/17
+__Updated:__ 12/29/17
 
 
 <div>
