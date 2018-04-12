@@ -118,17 +118,4 @@ Pybaseball is pip installable. Simply run `pip install pybaseball` and it's on y
 # Where to Read More
 If any of this piqued your interest, full documentation and complete examples are available on the Github repo [here](http://github.com/jldbc/pybaseball){:target="_blank"}. If you like what you've seen so far, please give it a star. If you __really__ like what you've seen so far, drop me a suggestion or submit a code improvement. Last, if you end up using pybaseball for any type of project or analysis, I would love to hear about it. [Send me a note](mailto:ledoux.james.r@gmail.com) or reach out [on Twitter](http://twitter.com/jmzledoux){:target="_blank"}!
 
-<div>
-      <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-52953508-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-</div>
-
 
