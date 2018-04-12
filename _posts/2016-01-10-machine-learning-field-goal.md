@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning and the NFL Field Goal: Using Statistical Learning Techniques to Isolate Placekicker Ability"
-layout: post
+layout: posts
 categories: projects ML data science field goal
 excerpt: Probabilistic modeling on NFL field goal data. Applying logistic regression, random forests, and neural networks in R to measure contributing factors of field goal success, and then using this model to rate kickers by posts-added above the exptected value. Published in Elements Research Journal Fall 2016, presented at Boston College Big Data Research Symposium Spring 2015.
 ---

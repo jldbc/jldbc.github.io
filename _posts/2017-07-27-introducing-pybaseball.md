@@ -1,6 +1,6 @@
 ---
 title: "Introducing pybaseball: an Open Source Package for Baseball Data Analysis"
-layout: post
+layout: posts
 categories: projects open-source
 excerpt: Throughout my baseball-facing work at MLB Advanced Media, I came to realize that there was no reliable Python tool available for sabermetric research and advanced baseball statistics. As a response to this, I built pybaseball - a Python package for baseball data analysis.
 ---

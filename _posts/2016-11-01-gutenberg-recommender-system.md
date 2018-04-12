@@ -1,6 +1,6 @@
 ---
 title: "Building a Content-Based Recommender System for Books: Using Natural Language Processing to Understand Literary Preference"
-layout: post
+layout: posts
 categories: projects
 excerpt: Literature is a tricky area for data science. Think of your five favorite books. What do they have in common? Some may share an author or genre, but besides that, it is probably hard for you to think of what traits they share. My team and I set out to explore the mysterious components of an individual’s literary taste profile, and in the process built a content-based recommender system for books. This post is a brief overview of the system, the features it uses, and how it was built.
 ---
