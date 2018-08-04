@@ -4,9 +4,9 @@ layout: posts
 categories: personal reading
 excerpt: A collection of some of my favorite books. Business, popular economics, stats and machine learning, and some literature.
 ---
-A running list of books I’ve enjoyed, and a few quick thoughts on what I found worth sharing.
+A running list of what I've been reading.
 
-__Currently Reading:__ Bit by Bit: Social Research in the Digital Age
+__Currently Reading:__ Deep Learning with Python - Francois Chollet
 
 # Data Science
 
@@ -14,25 +14,37 @@ __Currently Reading:__ Bit by Bit: Social Research in the Digital Age
 
 A solid overview of the statistical learning theory that underlies machine learning. Allows a reader to get an intuitive grasp of what is going on inside the “black box”, but is a little too far on qualitative side if one hopes to gain a full understanding. For a deeper dive, see the advanced version Elements of Statistical Learning.
 
+## Elements of Statistical Learning — James, Tibshirani, and Hastie
+
+Like the above, but much more dense. Worth suffering through its first several chapters. Builds character. 
+
 ## Learning from Data -- Abu-Mostafa and Magdon-Ismail
 
 A reliable book on the machine learning theory, approaching problems from a theoretical rather than applied perspective. I would recommend this as a second book/course on machine learning, once the basics are understood.
 
 ## Deep Learning -- Goodfellow, Bengio and Courville
 
-A wonderful balance of intuition and theory that the field has been lacking. Begins with the nuts and bolts of feedforward networks, and then goes into depth on the state of the art in model regularization, optimization, and various model classes and architectures. Not a light read, but highy recommended for an aspiring practitioner.
+A wonderful balance of intuition and theory that the field has been lacking. Begins with the nuts and bolts of feedforward networks, and then goes into depth on the state of the art in model regularization, optimization, and various model classes and architectures. Filled with useful tips and tricks for implementing models.
+
+## Bit by Bit: Social Research in the Digital Age -- Matthew Salganik
+
+This book felt like a greatest hits compliation of all the most useful and exciting things I learned about experiment design as an undergrad. It's the best book I've found to date for marrying the strengths of old-school statisticians and newer-school data science. 
 
 ## The Signal and the Noise — Nate Silver
 
 My life would have turned out quite different had it not been for Nate Silver and this book. The Signal and the Noise helped me to discover my love for data science!
 
-## Analyzing Baseball Data with R - Albert and Marchi
+## The Book of Why -- Judea Pearl
+
+I can't shake the feeling that, as a data scientist, this book hates me. Nonetheless, it opened my eyes to an approach to causal inference that was entirely different than anything I'd been exposed to before.
+
+## Analyzing Baseball Data with R -- Albert and Marchi
 
 A reference book on sabermetrics with code samples in R. This book is useful to keep around when working with some of the main publicly-available baseball data sources such as Retrosheet and the Lahman database. 
 
-## Big Data — Schonberger & Cukier
+## The Information -- James Gleick
 
-A high-level overview of the ways big data could change various aspects of government and enterprise, and both the risks and sources of value that are associated with this.
+A short, digestible history of and introduction to information theory. It won't make you an expert, but you'll get the main ideas.
 
 
 # Decision Science
@@ -45,13 +57,17 @@ This book covers the rise of behavioral economics from one of its earliest pract
 
 A layman’s version of the theories that laid the groundwork for behavioral economics. Kahneman explains the two chief mechanisms in our brains (fast and slow thought), and how they cause predictable biases.
 
+## Predictably Irrational -- Dan Ariely 
+
+This read a lot like Thinking Fast and Slow, but Ariely is a much better writer. Another book about how our brains take shortcuts that lead to irrational decision making.
+
 ## Algorithms to Live By: the Computer Science of Human Decisions - Christian and Griffiths
 
 A psychology-computer science fusion piece on how fundamental computer science algorithms and data strucutres can aide decision making. A fun way to tie stacks, queues, sorting algorithms into your everyday life. 
 
 ## Freakonomics I & II — Levitt and Dubner
 
-My love for Steven Levitt’s work is second only to that for Nate Silver’s. Freakonomics showed me that the economics tool set can be used to advance causes much greater than economics itself. This has had a major impact on the way I have both applied and pushed the limits of my education as an economics student.
+My love for Steven Levitt’s work is second only to that for Nate Silver’s. Freakonomics showed me that the economics tool set can be used to advance causes much greater than economics itself.
 
 ## What Money Can’t Buy — Michael Sandel
 
@@ -61,16 +77,20 @@ A book on incentives, and how just about everything has a price tag if framed co
 
 A collection of posts from the Freakonomics blog strung together into a greater narrative. A nice mix of incentive schemes, economic ramblings, and musings on irrational behavior.
 
+## Thinking in Bets -- Annie Duke
+
+A poker professional's take on training yourself to think rationally and probabilistically.
+
 ## Grit - Angela Duckworth
 
-This book became the focus of a great deal of argument on my Twitter timeline at one point so I thought I'd check it out. Duckworth's research attempts to measure people's level of grittiness. An interesting body of work, but I think a reading of the the Musk and Bezos biographies teaches the same lesson while being a little more fun. 
+This book came to my attention because people were arguing about it on Twitter. Duckworth's research attempts to measure people's level of grittiness. I didn't find it very useful or interesting. 
 
 
 # Misc. Applied Statistics
 
 ## The Book: Playing the Percentages in Baseball - Tango, Lichtman and Dolphin
 
-I was lucky enough to work with Tango while working as a statistician at MLB. This book is essentially the bible for a modern-day sabermetrician, answering baseball's most fundamental strategic questions with cold hard data. 
+I was lucky enough to work with Tango while working as a statistician at MLB. This book is essentially the bible for a modern-day sabermetrician, answering baseball's most fundamental strategic questions with an empirial approach and interpretable models. 
 
 ## Superforecasting: the Art and Science of Prediction — Phillip Tetlock
 
@@ -104,7 +124,7 @@ A manual on how to build and scale an organization where innovation comes natura
 
 ## Zero to One — Peter Thiel
 
-Peter Thiel’s thoughts on how to start a startup. This book is filled with wisdom on market positioning, culture, and overcoming the challenges of early-stage entrepreneurship.
+Peter Thiel’s notes on how to start a startup. This book is filled with wisdom on market positioning, culture, and overcoming the challenges of early-stage entrepreneurship.
 
 ## Peddling Prosperity — Paul Krugman
 
@@ -127,14 +147,15 @@ More value investing, this time greatly simplified. One of the most useful reads
 The bible for any value investor. Graham’s Mr. Market illustration remains relevant today.
 
 
-# Literature
+# Literature & History
+
+## The Gatekeepers -- Chris Wipple
+
+A history of every White House Chief of Staff and how they shaped their administrations. 
 
 ## Lolita — Vladimir Nabokov
 
-Bringing the reader into the mind of a pedophile, Nabokov combines a beautiful writing style with disturbing subject matter. The opening paragraph captures this well:
-
-> “Lolita, light of my life, fire of my loins. My sin, my soul. Lo-lee-ta: the tip of the tongue taking a trip of three steps down the palate to tap, at three, on the teeth. Lo. Lee. Ta. She was Lo, plain Lo, in the morning, standing four feet ten in one sock. She was Lola in slacks. She was Dolly at school. She was Dolores on the dotted line. But in my arms she was always Lolita.”
-
+Bringing the reader into the mind of a pedophile, Nabokov combines a beautiful writing style with disturbing subject matter.
 
 ## 1984 — George Orwell
 
@@ -146,7 +167,7 @@ One of my all time favorites.
 
 ## To the Lighthouse — Virginia Woolf
 
-Another of my favorites on the literature side of things. Woolf’s style is fluid and  poetic, bringing the epic into the world of thought and everyday life.
+Another of my favorites on the literature side of things.
 
-__Updated:__ 12/29/17
+__Updated:__ 8/4/18
 
