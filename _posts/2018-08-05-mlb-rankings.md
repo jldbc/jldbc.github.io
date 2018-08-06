@@ -66,6 +66,8 @@ df['win_pct'] = df['W'] / (df['W'] + df['L'])
 df.to_csv('2018-records.csv')
 ```
 
+## Data Preparation
+
 Next the data get loaded into R. It is easiest to rank the teams when their win rate is known at every point in time, not only on game days. For this reason, my first task for preparing the data is to fill in these missing non-game-day dates with the win-percentage of each team's most recent game day. 
 
 ```R
@@ -111,6 +113,8 @@ by_date <- by_date %>% group_by(Date) %>%
            arrange(Date, desc(win_pct), Tm) %>%
            mutate(Rank = rank(-win_pct, ties.method = "first"))
 ```
+
+## Visualization
 
 Now on to the fun part: graphing it. We can start by defining the colors that will be associated with each team's line on the graph. Because team colors are well known to fans, this will help the plot's interpretability. Conveniently, there's a website built for this exact purpose: [teamcolorcodes.com](https://teamcolorcodes.com/). I selected a hex code for one of each team's colors and add them to a list like so:
 
