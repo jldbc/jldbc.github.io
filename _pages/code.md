@@ -13,18 +13,16 @@ This is a running list of code snippets that I find helpful in my daily work, im
 
 # Machine Learning
 
-## Model Evaluation
 * [Splitting Data into Train and Test Sets](/code/train_test_split)
 
 # Preprocessing
 
-## General
 * [Impute Missing Values](/code/imputation)
 * [Standardizing/Scaling Features](/code/standardization)
+* [Convert date strings into datetime format](/code/date_string_to_datetime)
 
 # Feature Engineering
 
-## General
 * [Dummy Variables](/code/dummies)
 
 
