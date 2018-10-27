@@ -10,164 +10,168 @@ __Currently Reading:__ Deep Learning with Python - Francois Chollet
 
 # Data Science
 
-## Introduction to Statistical Learning — James, Tibshirani, and Hastie
+### Introduction to Statistical Learning — James, Tibshirani, and Hastie
 
-A solid overview of the statistical learning theory that underlies machine learning. Allows a reader to get an intuitive grasp of what is going on inside the “black box”, but is a little too far on qualitative side if one hopes to gain a full understanding. For a deeper dive, see the advanced version Elements of Statistical Learning.
+> A solid overview of the statistical learning theory that underlies machine learning. Allows a reader to get an intuitive grasp of what is going on inside the “black box”, but is a little too far on qualitative side if one hopes to gain a full understanding. For a deeper dive, see the advanced version Elements of Statistical Learning.
 
-## Elements of Statistical Learning — James, Tibshirani, and Hastie
+### Elements of Statistical Learning — James, Tibshirani, and Hastie
 
-Like the above, but much more dense. Worth suffering through its first several chapters. Builds character. 
+> Like the above, but much more dense. Worth suffering through its first several chapters. Builds character. 
 
-## Learning from Data -- Abu-Mostafa and Magdon-Ismail
+### Learning from Data -- Abu-Mostafa and Magdon-Ismail
 
-A reliable book on the machine learning theory, approaching problems from a theoretical rather than applied perspective. I would recommend this as a second book/course on machine learning, once the basics are understood.
+> Another machine learning book that focuses on theory. It won't show you how to train your own models, but it will help to understand why models work and what guarantees we're able to make about learning and generalization.
 
-## Deep Learning -- Goodfellow, Bengio and Courville
+### Deep Learning -- Goodfellow, Bengio and Courville
 
-A wonderful balance of intuition and theory that the field has been lacking. Begins with the nuts and bolts of feedforward networks, and then goes into depth on the state of the art in model regularization, optimization, and various model classes and architectures. Filled with useful tips and tricks for implementing models.
+> A wonderful balance of intuition and theory that the field has been lacking. Begins with the nuts and bolts of feedforward networks, and then goes into depth on the state of the art in model regularization, optimization, and various model classes and architectures. Filled with useful tips and tricks for implementing models.
 
-## Bit by Bit: Social Research in the Digital Age -- Matthew Salganik
+### The Visual Display of Quantitative Information -- Edward Tufte
 
-This book felt like a greatest hits compliation of all the most useful and exciting things I learned about experiment design as an undergrad. It's the best book I've found to date for marrying the strengths of old-school statisticians and newer-school data science. 
+> Communicating what your data have to say with clarity, precision, and efficiency. Its pretty graphics also make it a great coffee table book.
 
-## The Signal and the Noise — Nate Silver
+### Bit by Bit: Social Research in the Digital Age -- Matthew Salganik
 
-My life would have turned out quite different had it not been for Nate Silver and this book. The Signal and the Noise helped me to discover my love for data science!
+> This book felt like a greatest hits compliation of all the most useful and exciting things I learned about experiment design as an undergrad. It's the best book I've found to date for marrying the strengths of old-school statisticians and newer-school data scientists. 
 
-## The Book of Why -- Judea Pearl
+### The Signal and the Noise — Nate Silver
 
-I can't shake the feeling that, as a data scientist, this book hates me. Nonetheless, it opened my eyes to an approach to causal inference that was entirely different than anything I'd been exposed to before.
+> My life would have turned out quite different had it not been for Nate Silver and this book. The Signal and the Noise helped me to discover my love for data science!
 
-## Analyzing Baseball Data with R -- Albert and Marchi
+### The Book of Why -- Judea Pearl
 
-A reference book on sabermetrics with code samples in R. This book is useful to keep around when working with some of the main publicly-available baseball data sources such as Retrosheet and the Lahman database. 
+> I can't shake the feeling that, as a data scientist, this book hates me. Nonetheless, it opened my eyes to an approach to causal inference that was entirely different than anything I'd been exposed to before.
 
-## The Information -- James Gleick
+### Analyzing Baseball Data with R -- Albert and Marchi
 
-A short, digestible history of and introduction to information theory. It won't make you an expert, but you'll get the main ideas.
+> A reference book on sabermetrics with code samples in R. This book is useful to keep around when working with some of the main publicly-available baseball data sources such as Retrosheet and the Lahman database. 
+
+### The Information -- James Gleick
+
+> A short, digestible history of and introduction to information theory. It won't make you an expert, but you'll get the main ideas.
 
 
 # Decision Science
 
-## Misbehaving — Richard Thaler
+### Misbehaving — Richard Thaler
 
-This book covers the rise of behavioral economics from one of its earliest practitioners. Thaler draws from his experience to give an often Freakonomics-esque run-down of how economic models fail to describe real-world human behavior.
+> This book covers the rise of behavioral economics from one of its earliest practitioners. Thaler draws from his experience to give an often Freakonomics-esque run-down of how economic models fail to describe real-world human behavior.
 
-## Thinking, Fast and Slow — Daniel Kahneman
+### Thinking, Fast and Slow — Daniel Kahneman
 
-A layman’s version of the theories that laid the groundwork for behavioral economics. Kahneman explains the two chief mechanisms in our brains (fast and slow thought), and how they cause predictable biases.
+> A layman’s version of the theories that laid the groundwork for behavioral economics. Kahneman explains the two chief mechanisms in our brains (fast and slow thought), and how they cause predictable biases.
 
-## Predictably Irrational -- Dan Ariely 
+### Predictably Irrational -- Dan Ariely 
 
-This read a lot like Thinking Fast and Slow, but Ariely is a much better writer. Another book about how our brains take shortcuts that lead to irrational decision making.
+> This read a lot like Thinking Fast and Slow, but Ariely is a much better writer. Another book about how our brains take shortcuts that lead to irrational decision making.
 
-## Algorithms to Live By: the Computer Science of Human Decisions - Christian and Griffiths
+### Algorithms to Live By: the Computer Science of Human Decisions - Christian and Griffiths
 
-A psychology-computer science fusion piece on how fundamental computer science algorithms and data strucutres can aide decision making. A fun way to tie stacks, queues, sorting algorithms into your everyday life. 
+> A psychology-computer science fusion piece on how fundamental computer science algorithms and data strucutres can aide decision making. A fun way to tie stacks, queues, sorting algorithms into your everyday life. 
 
-## Freakonomics I & II — Levitt and Dubner
+### Freakonomics I & II — Levitt and Dubner
 
-My love for Steven Levitt’s work is second only to that for Nate Silver’s. Freakonomics showed me that the economics tool set can be used to advance causes much greater than economics itself.
+> My love for Steven Levitt’s work is second only to that for Nate Silver’s. Freakonomics showed me that the economics tool set can be used to advance causes much greater than economics itself.
 
-## What Money Can’t Buy — Michael Sandel
+### What Money Can’t Buy — Michael Sandel
 
-A book on incentives, and how just about everything has a price tag if framed correctly.
+> A book on incentives, and how just about everything has a price tag if framed correctly.
 
-## When to Rob a Bank and 131 More Warped Suggestions and Well-Intended Rants — Levitt and Dubner
+### When to Rob a Bank and 131 More Warped Suggestions and Well-Intended Rants — Levitt and Dubner
 
-A collection of posts from the Freakonomics blog strung together into a greater narrative. A nice mix of incentive schemes, economic ramblings, and musings on irrational behavior.
+> A collection of posts from the Freakonomics blog strung together into a greater narrative. A nice mix of incentive schemes, economic ramblings, and musings on irrational behavior.
 
-## Thinking in Bets -- Annie Duke
+### Thinking in Bets -- Annie Duke
 
-A poker professional's take on training yourself to think rationally and probabilistically.
+> A poker professional's take on training yourself to think rationally and probabilistically.
 
-## Grit - Angela Duckworth
+### Grit - Angela Duckworth
 
-This book came to my attention because people were arguing about it on Twitter. Duckworth's research attempts to measure people's level of grittiness. I didn't find it very useful or interesting. 
+> This book came to my attention because people were arguing about it on Twitter. Duckworth's research attempts to measure people's level of grittiness. I didn't find it very useful or interesting. 
 
 
 # Misc. Applied Statistics
 
-## The Book: Playing the Percentages in Baseball - Tango, Lichtman and Dolphin
+### The Book: Playing the Percentages in Baseball - Tango, Lichtman and Dolphin
 
-I was lucky enough to work with Tango while working as a statistician at MLB. This book is essentially the bible for a modern-day sabermetrician, answering baseball's most fundamental strategic questions with an empirial approach and interpretable models. 
+> I was lucky enough to work with Tango while working as a statistician at MLB. This book is essentially the bible for a modern-day sabermetrician, answering baseball's most fundamental strategic questions with an empirial approach and interpretable models. 
 
-## Superforecasting: the Art and Science of Prediction — Phillip Tetlock
+### Superforecasting: the Art and Science of Prediction — Phillip Tetlock
 
-An engaging read for statheads and trivia fanatics. Tetlock draws from his experience as the head of the Good Judgment Project (a lengthy study on forecasting) to break down what exactly makes a great forecaster able to see the future better than the rest of us. The key findings are based in psychology and methods of improvement through self-evaluation.
+> An engaging read for statheads and trivia fanatics. Tetlock draws from his experience as the head of the Good Judgment Project (a lengthy study on forecasting) to break down what exactly makes a great forecaster able to see the future better than the rest of us. The key findings are based in psychology and methods of improvement through self-evaluation.
 
-## Moneyball — Michael Lewis
+### Moneyball — Michael Lewis
 
-The story of how Billy Beane’s Oakland A’s are able to build successful teams in one of baseball’s smallest markets. Lewis’ walk through the logic of sabermetrics and sorting signal from noise in baseball data was eye opening as a stats geek and sports fan alike.
+> The story of how Billy Beane’s Oakland A’s are able to build successful teams in one of baseball’s smallest markets. Lewis’ walk through the logic of sabermetrics and sorting signal from noise in baseball data was eye opening as a stats geek and sports fan alike.
 
-## Chasing Perfection - Andy Clockner
+### Chasing Perfection - Andy Clockner
 
-A mostly-qualitative run through the current state of basketball analytics, detailing recent phenomena such as the decline of the mid-range jumper, tanking for draft picks, and the specialized medical analyses being used to ensure player longevity. 
+> A mostly-qualitative run through the current state of basketball analytics, detailing recent phenomena such as the decline of the mid-range jumper, tanking for draft picks, and the specialized medical analyses being used to ensure player longevity. 
 
 # Business and Economics
 
-## The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone
+### The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone
 
-The rise of Bezos and Amazon. A handbook on long-term thinking and execution in complex environments. 
+> The rise of Bezos and Amazon. A handbook on long-term thinking and execution in complex environments. 
 
-## Elon Musk - Ashlee Vance
+### Elon Musk - Ashlee Vance
 
-Musk's success story seems similar to that of Bezos: defined by an obsessive focus on a small number of long-term goals and a superhuman work ethic.
+> Musk's success story seems similar to that of Bezos: defined by an obsessive focus on a small number of long-term goals and a superhuman work ethic.
 
-## The Hard Thing About Hard Things — Ben Horowitz
+### The Hard Thing About Hard Things — Ben Horowitz
 
-Advice from a VC and former CEO about how to get through the low points as a leader. A master class on how to lead when things are not going well.
+> Advice from a VC and former CEO about how to get through the low points as a leader, and how to lead when things are not going well.
 
-## How Google Works — Eric Schmidt and Jonathan Rosenberg
+### How Google Works — Eric Schmidt and Jonathan Rosenberg
 
-A manual on how to build and scale an organization where innovation comes natural, told by two of the leaders responsible for doing this at Google.
+> How to build and scale an organization where innovation comes natural, told by two of the leaders responsible for doing this at Google.
 
-## Zero to One — Peter Thiel
+### Zero to One — Peter Thiel
 
-Peter Thiel’s notes on how to start a startup. This book is filled with wisdom on market positioning, culture, and overcoming the challenges of early-stage entrepreneurship.
+> Peter Thiel’s notes on how to start a startup. Advice on market positioning, culture, and overcoming the challenges of early-stage entrepreneurship.
 
-## Peddling Prosperity — Paul Krugman
+### Peddling Prosperity — Paul Krugman
 
-A breakdown of the dangers of journalist and pundit-fed pseudo-economics. The stories of those who “peddle prosperity” in this way are seldom grounded in facts. This book breaks down the rise and farce of Reaganomics, and how to be weary of such false theories in the future.
+> A breakdown of the dangers of journalist and pundit-fed pseudo-economics. The stories of those who “peddle prosperity” in this way are seldom grounded in facts. This book breaks down the rise and farce of Reaganomics, and how to be weary of such false theories in the future.
 
-## The Dhando Investor — Mohnish Pabrai
+### The Dhando Investor — Mohnish Pabrai
 
-Simple, easy to follow value investing principles from a hedge fund manager.
+> Simple, easy to follow value investing principles from a hedge fund manager.
 
-## Work Rules! — Laszlo Bock
+### Work Rules! — Laszlo Bock
 
-How to fuel an organization through better human resources practices. Hiring, recruiting, and general people operations advice from Google’s SVP of People Ops.
+> An uncharacteristically interesting book about HR from Google's former HR chief. Ideas on using data for better HR decisions.
 
-## The Little Book that Beats the Market — Joel Greenblatt
+### The Little Book that Beats the Market — Joel Greenblatt
 
-More value investing, this time greatly simplified. One of the most useful reads for an investor who is not a finance pro. 
+> More value investing, this time greatly simplified. One of the most useful reads for an investor who is not a finance pro. 
 
-## The Intelligent Investor — Benjamin Graham
+### The Intelligent Investor — Benjamin Graham
 
-The bible for any value investor. Graham’s Mr. Market illustration remains relevant today.
+> The bible for any value investor. Graham’s Mr. Market illustration remains relevant today.
 
 
 # Literature & History
 
-## The Gatekeepers -- Chris Wipple
+### The Gatekeepers -- Chris Wipple
 
-A history of every White House Chief of Staff and how they shaped their administrations. 
+> A history of every White House Chief of Staff and how they shaped their administrations. 
 
-## Lolita — Vladimir Nabokov
+### Lolita — Vladimir Nabokov
 
-Bringing the reader into the mind of a pedophile, Nabokov combines a beautiful writing style with disturbing subject matter.
+> Bringing the reader into the mind of a pedophile, Nabokov combines a beautiful writing style with disturbing subject matter.
 
-## 1984 — George Orwell
+### 1984 — George Orwell
 
-One of my all time favorites.
+> One of my all time favorites.
 
-## A Portrait of the Artist as a Young Man — James Joyce
+### A Portrait of the Artist as a Young Man — James Joyce
 
 > “Old father, old artificer, stand me now and ever in good stead.”
 
-## To the Lighthouse — Virginia Woolf
+### To the Lighthouse — Virginia Woolf
 
-Another of my favorites on the literature side of things.
+> Another of my favorites on the literature side of things.
 
-__Updated:__ 8/4/18
+__Updated:__ 10/27/18
 
