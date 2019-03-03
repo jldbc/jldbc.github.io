@@ -27,6 +27,7 @@ This is a running list of code snippets that I find helpful in my daily work, im
 * [Dummy Variables](/code/dummies)
 * [Get the Number of Days Between Two Dates](/code/date_differences)
 * [Extract Month, Year, and Day from Date](/code/extract_date_features)
+* [Group by Columns to Create Aggregate Features](/code/group-by-aggregate-pandas)
 
 
 

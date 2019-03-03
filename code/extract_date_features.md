@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Extract Month and Year and Day from a Date"
+title: "Extract Month, Year and Day from a Date"
 permalink: /code/extract_date_features
 author_profile: true
 redirect_from:
