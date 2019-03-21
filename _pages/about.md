@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I'm a data scientist currently working as an Analyst on BuzzFeed's Data Science team. Prior to this I was a Data Scientist at MLB Advanced Media and a Solutions Consultant and Automation Engineer at Google.
+I'm a Data Scientist at BuzzFeed. Prior to this I was a Data Scientist at MLB Advanced Media and a Solutions Consultant and Automation Engineer at Google.
 
 In my free time I enjoy working on my Python package [pybaseball](https://github.com/jldbc/pybaseball), working on miscellaneous data analysis and modeling projects, and reading about tech, statistics, sports, and any combination of those things.
 
