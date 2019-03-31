@@ -29,6 +29,10 @@ This is a running list of code snippets that I find helpful in my daily work, im
 * [Extract Month, Year, and Day from Date](/code/extract_date_features)
 * [Group by Columns to Create Aggregate Features](/code/group-by-aggregate-pandas)
 
+# SQL
+
+* [Simplify Complex Queries with Common Table Expressions (CTEs)](/code/sql-cte-common-table-expressions)
+
 
 
 
