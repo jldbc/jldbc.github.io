@@ -92,5 +92,5 @@ ORDER BY
 4|EdChum|Berkshire, United Kingdom|178578|17| 
 5|ogrisel|Paris, France|29009|13| 
 
-This is a fairly complicated question, but as you can see from the above query, it's easy to read and write when you tackle it with CTEs. The alternative would be to query the users table, then join on the comments table with a subquery for finding each user's comment count, which in turn would need a **second** subquery for finding which of these comments were related to machine learning in Python. Gross! Don't do that. Use common table expressions instead. Your future self and whoever you share a code base with will thank you.
+This is a fairly complicated question, but as you can see from the above query, it's easy to read and write when you tackle it with CTEs. The alternative would be to query the users table, then join on the comments table with a subquery for finding each user's comments, which in turn would need a **second** subquery for finding which of these comments were related to machine learning in Python. Gross! Don't do that. Use common table expressions instead. Your future self and whoever you share a code base with will thank you.
 
