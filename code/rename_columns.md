@@ -35,9 +35,9 @@ Alice|28|Female
 Phil|40|Male
 James|24|Male
 
-# Rename Columns Using the Replace Function
+# Rename Columns Using the Rename Function
 
-The most flexible way to rename columns is to use Pandas' `df.replace` function. It can take as arguments either a dictionary of `{old_name: new_name}` pairs, or a function that you want to apply to all columns. An example of both:
+The most flexible way to rename columns is to use Pandas' `df.rename` function. It can take as arguments either a dictionary of `{old_name: new_name}` pairs, or a function that you want to apply to all columns. An example of both:
 
 ```python
 # rename columns using a dictionary mapping old to new names
@@ -85,6 +85,6 @@ Alice|28|Female
 Phil|40|Male
 James|24|Male
 
-This approach is usually more labor-intensive because it requires you to specify the entire list of new column names, whereas the replace function lets you specify as few or as many columns as you wish.
+This approach is usually more labor-intensive because it requires you to specify the entire list of new column names, whereas the rename function lets you specify as few or as many columns as you wish.
 
 
