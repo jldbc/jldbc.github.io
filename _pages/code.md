@@ -19,6 +19,7 @@ This is a running list of code snippets that I find helpful in my daily work, im
 
 * [Impute Missing Values](/code/imputation)
 * [Drop Duplicate Values](/code/drop_duplicates)
+* [Rename Columns in a Pandas DataFrame](/code/rename_columns_pandas_dataframe)
 * [Standardizing/Scaling Features](/code/standardization)
 * [Convert date strings into datetime format](/code/date_string_to_datetime)
 
