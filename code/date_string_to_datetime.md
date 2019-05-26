@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+This post shows how to properly format a date string and turn it into a datetime object using Pandas' `pd.to_datetime` function.
+
+# Background
+
 Date values in raw data will usually be read into a dataframe as a string type. To use these values for date math or perform any sort of timeseries analysis, these will need to be converted into a proper datetime format that Python understands. There are a few ways to turn date strings into datetimes. Pandas' `to_datetime` funtion is one fairly easy way to do it.
 
 # Imports
