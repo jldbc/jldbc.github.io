@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+This post shows how to create dummy variables using Pandas' `pd.get_dummies` function.
+
+# Background
+
 A dummy variable is a binary variable that indicates whether a separate categorical variable takes on a specific value. For a categorical variable that takes on more than one value, it is useful to create one dummy variable for each unique value that the categorical variable takes on. Here's how you can do that in Python:
 
 # Imports
