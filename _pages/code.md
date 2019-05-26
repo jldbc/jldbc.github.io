@@ -14,6 +14,10 @@ This is a running list of code snippets that I find helpful in my daily work, im
 # Machine Learning
 
 * [Splitting Data into Train and Test Sets](/code/train_test_split)
+* [Tune Hyperparameters Using Random Search](/code/randomized_parameter_search)
+* [Tune Hyperparameters Using Grid Search](/code/grid_search)
+* [K-Fold Cross Validation](/code/k_fold_cross_validation)
+
 
 # Preprocessing
 
