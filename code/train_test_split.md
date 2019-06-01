@@ -3,6 +3,7 @@ layout: archive
 title: "Breaking Data into a Train and Test Set"
 permalink: /code/train_test_split
 author_profile: true
+date: 2019-06-01
 redirect_from:
   - /train_test_split
 ---
@@ -10,6 +11,7 @@ redirect_from:
 {% include base_path %}
 
 # Imports
+
 ```python
 import pandas as pd
 from sklearn.datasets import load_iris

@@ -3,6 +3,7 @@ layout: archive
 title: "Simplify your SQL Queries with Common Table Expressions (CTEs)"
 permalink: /code/sql-cte-common-table-expressions
 author_profile: true
+date: 2019-06-01
 redirect_from:
   - /sql-cte-common-table-expressions
 ---

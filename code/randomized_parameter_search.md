@@ -3,6 +3,7 @@ layout: archive
 title: "Tune Hyperparameters with Randomized Search"
 permalink: /code/randomized_parameter_search
 author_profile: true
+date: 2019-06-01
 redirect_from:
   - /randomized_search
 ---

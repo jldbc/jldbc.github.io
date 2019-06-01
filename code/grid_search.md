@@ -3,6 +3,7 @@ layout: archive
 title: "Tune Hyperparameters with Grid Search"
 permalink: /code/grid_search
 author_profile: true
+date: 2019-06-01
 redirect_from:
   - /grid_search
 ---

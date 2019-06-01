@@ -3,6 +3,7 @@ layout: archive
 title: "Standardizing Features"
 permalink: /code/standardization
 author_profile: true
+date: 2019-06-01
 redirect_from:
   - /standardization
 ---
