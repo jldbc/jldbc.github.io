@@ -3,7 +3,8 @@ layout: archive
 title: "Drop Columns in a Pandas DataFrame"
 permalink: /code/drop_columns
 author_profile: true
-date: 2019-06-01	
+date: 2019-06-01
+last_modified_at: 2019-06-01	
 redirect_from:
   - /drop_columns
 ---

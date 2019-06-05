@@ -4,6 +4,7 @@ title: "Extract Month, Year and Day from a Date"
 permalink: /code/extract_date_features
 author_profile: true
 date: 2019-06-01
+last_modified_at: 2019-06-01
 redirect_from:
   - /get_month_year
 ---

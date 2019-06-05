@@ -4,6 +4,7 @@ title: "Tune Hyperparameters with Grid Search"
 permalink: /code/grid_search
 author_profile: true
 date: 2019-06-01
+last_modified_at: 2019-06-01
 redirect_from:
   - /grid_search
 ---

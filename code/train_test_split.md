@@ -4,6 +4,7 @@ title: "Breaking Data into a Train and Test Set"
 permalink: /code/train_test_split
 author_profile: true
 date: 2019-06-01
+last_modified_at: 2019-06-01
 redirect_from:
   - /train_test_split
 ---

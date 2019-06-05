@@ -4,6 +4,7 @@ title: "Rename Columns in a Pandas DataFrame"
 permalink: /code/rename_columns_pandas_dataframe
 author_profile: true
 date: 2019-06-01
+last_modified_at: 2019-06-01
 redirect_from:
   - /rename_column
 ---

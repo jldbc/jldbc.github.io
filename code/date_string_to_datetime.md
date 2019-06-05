@@ -4,6 +4,7 @@ title: "Turn Date Strings into Datetime Objects"
 permalink: /code/date_string_to_datetime
 author_profile: true
 date: 2019-06-01
+last_modified_at: 2019-06-01
 redirect_from:
   - /datetime
 ---

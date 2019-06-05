@@ -4,6 +4,7 @@ title: "Create Dummy Variables in Pandas"
 permalink: /code/dummies
 author_profile: true
 date: 2019-06-01
+last_modified_at: 2019-06-01
 redirect_from:
   - /dummies
 ---

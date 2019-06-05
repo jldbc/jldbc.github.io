@@ -4,6 +4,7 @@ title: "Get the Difference Between Two Dates"
 permalink: /code/date_differences
 author_profile: true
 date: 2019-06-01
+last_modified_at: 2019-06-01
 redirect_from:
   - /date_math
 ---

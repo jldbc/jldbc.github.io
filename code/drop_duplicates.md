@@ -4,6 +4,7 @@ title: "Drop Duplicate Rows in a DataFrame"
 permalink: /code/drop_duplicates
 author_profile: true
 date: 2019-06-01
+last_modified_at: 2019-06-01
 redirect_from:
   - /duplicates
 ---
