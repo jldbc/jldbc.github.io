@@ -2,6 +2,8 @@
 title: "Understanding the AdTech Auctions in Your Browser: an Analysis of 30,000 Prebid.js Auctions"
 layout: posts
 categories: projects
+date: 2019-07-28
+last_modified_at: 2019-07-28
 excerpt: An analysis of auction dynamics in client-side header bidding
 
 ---
