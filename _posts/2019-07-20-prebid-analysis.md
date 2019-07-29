@@ -96,7 +96,7 @@ These are all big names in the industry, each having collected a massive network
 
 From the sites I examined, the sweet spot for how many exchanges to include in one's header seems to be around four. This doesn't mean it's optimal, but it does appear to be an industry standard among major publishers.
 
-# Relationship Auction Participants and Price
+# Relationship Between Auction Participants and Price
 
 Related to the number of SSPs a publisher works with is how many are placing bids for a given ad impression. Breaking it out this way, you can see the expected result: more auction participants leads to a higher clearing price. This fits with what existing economic theory teaches us: holding supply constant, an increase in demand (here by way of expanding the number of bidders with access to a site's inventory) will lead to higher prices. The pattern is imperfect (four bids has a lower cpm then three in this data), but this is probably because it's looking at data across several sites.
 
