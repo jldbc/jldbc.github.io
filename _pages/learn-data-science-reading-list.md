@@ -6,6 +6,18 @@ author_profile: false
 
 ---
 
+---
+<meta property="og:image" content="/images/fulls/book-pen.jpg">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="200">
+<meta property="og:image:height" content="200">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@jmzledoux">
+<meta name="twitter:creator" content="@jmzledoux">
+<meta name="twitter:title" content="19 Books Every Aspiring (Or Experienced) Data Scientist Should Read">
+<meta name="twitter:image" content="http://jamesrledoux.com/images/fulls/book-pen.jpg">
+
+
 {% include base_path %}
 
 Whether you're an aspiring data scientist or a seasoned professional, these are 19 books that will help you improve your skills in machine learning, data analysis, visualization, statistics, and more. I've read and can highly recommend them all.
