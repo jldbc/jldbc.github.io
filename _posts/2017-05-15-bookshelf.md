@@ -6,7 +6,7 @@ excerpt: A collection of some of my favorite books. Business, popular economics,
 ---
 A running list of what I've been reading.
 
-__Currently Reading:__ Deep Learning with Python - Francois Chollet
+__Currently Reading:__ Bayesian Data Analysis 3
 
 # Data Science
 
@@ -26,13 +26,33 @@ __Currently Reading:__ Deep Learning with Python - Francois Chollet
 
 > A wonderful balance of intuition and theory that the field has been lacking. Begins with the nuts and bolts of feedforward networks, and then goes into depth on the state of the art in model regularization, optimization, and various model classes and architectures. Filled with useful tips and tricks for implementing models.
 
+### Deep Learning with Python -- Francois Chollet
+
+> A handy reference for Keras. This book is helpful for bridging the gap between beginner deep learning tutorials and more advanced / state-of-the-art methods. It's not helpful for learning theory, but will help you to implement what you read in papers.
+
 ### The Visual Display of Quantitative Information -- Edward Tufte
 
 > Communicating what your data have to say with clarity, precision, and efficiency. Its pretty graphics also make it a great coffee table book.
 
+### Mostly Harmless Econometrics: An Empiricist's Companion -- Angrist and Pischke
+
+> A handbook on advanced econometrics. Useful for brushing up on linear models (simple and multiple linear regression) and experiment design (instrumental variables, difference-in-difference models, answering causal questions.)
+
+### Mastering Metrics: The Path from Cause to Effect -- Angrist and Pischke
+
+> This book is very similar to Mostly Harmless Econometrics, but more beginner-friendly. Get this one instead if you're learning econometrics for the first time.
+
 ### Bit by Bit: Social Research in the Digital Age -- Matthew Salganik
 
 > This book felt like a greatest hits compliation of all the most useful and exciting things I learned about experiment design as an undergrad. It's the best book I've found to date for marrying the strengths of old-school statisticians and newer-school data scientists. 
+
+### R for Data Science -- Wickham and Grolemund
+
+> An absurdly useful book for learning how to manipulate data with R and the Tidyverse (dplyr, ggplot, forcats, etc.) I read this once when I was first learning R and again after a few years of experience and learned new things each time. This book will make anyone better at data analysis, visualization, manipulation, and cleaning.
+
+### Python for Data Analysis -- Wes McKinney
+
+> Python's closest equivalent to R for Data Science. Useful for understanding Pandas dataframes more deeply, and helped me to rely on stack overflow a lot less.
 
 ### The Signal and the Noise — Nate Silver
 
@@ -173,5 +193,5 @@ __Currently Reading:__ Deep Learning with Python - Francois Chollet
 
 > Another of my favorites on the literature side of things.
 
-__Updated:__ 10/27/18
+__Updated:__ 2019/08/02
 
