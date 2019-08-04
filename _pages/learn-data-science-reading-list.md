@@ -10,7 +10,7 @@ author_profile: false
 
 Whether you're an aspiring data scientist or a seasoned professional, these are 19 books that will help you improve your skills in machine learning, data analysis, visualization, statistics, and more. I've read and can highly recommend them all.
 
-I've broken these books out into a few categories, but some may naturally belong in several groups (R for Data Science, for example, is great for learning both data visualization and analysis.) And just so you know, I may collect a commission from Amazon for any books you purchase using these links.
+I've split this data science reading list into a few categories, but some may naturally belong in several groups (R for Data Science, for example, is great for learning both data visualization and analysis.) And just so you know, I may collect a commission from Amazon for any books you purchase using these links.
 
 # Machine Learning (Theoretical)
 
