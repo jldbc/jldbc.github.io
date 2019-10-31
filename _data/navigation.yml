@@ -4,6 +4,8 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About"
      url: /about/ #https://mmistakes.github.io/minimal-mistakes/about/
+   - title: "Data Science Reading List"
+     url: https://thedailygoose.com/books/data-science-reading-list/
    - title: "Code"
      url: /code/
    - title: "CV"
