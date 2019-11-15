@@ -97,5 +97,10 @@ Red Sox|Pitcher|30.666667|24|40
 Yankees|Not Pitcher|30.666667|25|36
 Yankees|Pitcher|26.000000|21|31
 
+### Want to improve your Python skills? I recommend reading [Python for Data Analysis by Wes McKinney](https://www.amazon.com/gp/product/1491957662/ref=as_li_tl_nodl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491957662&linkCode=as2&tag=ledoux-20&linkId=eff92247940c967299befaed855c580a), the creator of Pandas
+
+![Python for Data Analysis book cover](https://images-na.ssl-images-amazon.com/images/I/51cUNf8zukL._SX379_BO1,204,203,200_.jpg)
+
+[Get it on Amazon here for $36.26](https://www.amazon.com/gp/product/1491957662/ref=as_li_tl_nodl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491957662&linkCode=as2&tag=ledoux-20&linkId=eff92247940c967299befaed855c580a)
 
 

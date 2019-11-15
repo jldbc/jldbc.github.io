@@ -81,6 +81,11 @@ James|25|Male
 
 Despite the full records not being duplicated, our duplicatation problem is once again resolved.
 
+### Want to improve your Python skills? I recommend reading [Python for Data Analysis by Wes McKinney](https://www.amazon.com/gp/product/1491957662/ref=as_li_tl_nodl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491957662&linkCode=as2&tag=ledoux-20&linkId=eff92247940c967299befaed855c580a), the creator of Pandas
+
+![Python for Data Analysis book cover](https://images-na.ssl-images-amazon.com/images/I/51cUNf8zukL._SX379_BO1,204,203,200_.jpg)
+
+[Get it on Amazon here for $36.26](https://www.amazon.com/gp/product/1491957662/ref=as_li_tl_nodl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491957662&linkCode=as2&tag=ledoux-20&linkId=eff92247940c967299befaed855c580a)
 
 
 
