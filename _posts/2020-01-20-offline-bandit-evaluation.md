@@ -172,3 +172,9 @@ trailing_ctr = np.asarray(pd.Series(rewards).rolling(50).mean())
 Training a multi-armed bandit using a historic dataset is a bit cumbersome compared to training a traditional machine learning model, but none of the individual methods involved are prohibitively complex. I hope some of the logic laid out in this post is useful for others as they approach similar problems, allowing you to focus on the important parts without getting too bogged down by methodology. 
 
 Another thing worth noting is that I'm figuring this out as I go! If you know a better way to go about this or disagree with the approach I'm laying out in this post, [send me a note](mailto:ledoux.james.r@gmail.com) and I'd be interested in discussing this.
+
+### Want to learn more about multi-armed bandit algorithms? I recommend reading [Bandit Algorithms for Website Optimization by John Myles White](https://www.amazon.com/Bandit-Algorithms-Website-Optimization-Developing/dp/1449341330?tag=ledoux-20).
+
+![Bandits Book Cover](https://images-na.ssl-images-amazon.com/images/I/51sDue2Z-9L._SX375_BO1,204,203,200_.jpg)
+
+[Get it on Amazon here for $17.77](https://www.amazon.com/Bandit-Algorithms-Website-Optimization-Developing/dp/1449341330?tag=ledoux-20)
