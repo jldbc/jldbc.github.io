@@ -3,6 +3,7 @@ title: "Offline Evaluation of Multi-Armed Bandit Algorithms in Python using Repl
 layout: posts
 categories: projects
 usemathjax: true
+classes: wide
 date: 2020-01-20
 last_modified_at: 2020-01-20
 excerpt: Multi-armed bandit algorithms are seeing renewed excitement, but evaluating their performance using a historic dataset is challenging. Here's how I go about implementing offline bandit evaluation techniques, with examples shown in Python.
