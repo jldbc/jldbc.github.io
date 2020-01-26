@@ -1,7 +1,7 @@
 ---
 title: "Offline Evaluation of Multi-Armed Bandit Algorithms in Python using Replay"
 layout: posts
-categories: projects
+categories: algorithms
 usemathjax: true
 classes: wide
 date: 2020-01-20
