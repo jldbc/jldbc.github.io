@@ -101,7 +101,7 @@ author:
   name             : "James LeDoux"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data scientist and armchair sabermetrician"
-  location         : "San Francisco, CA"
+  location         : "New York, NY"
   email            : "ledoux.james.r@gmail.com"
   uri              :
   home             :  "/" # null (default), "absolute or relative url to link to author home" "/" 
