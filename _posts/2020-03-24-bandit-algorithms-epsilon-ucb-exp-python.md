@@ -17,7 +17,7 @@ excerpt: This post explores four algorithms for solving the multi-armed bandit p
 <meta name="twitter:site" content="@jmzledoux">
 <meta name="twitter:creator" content="@jmzledoux">
 <meta name="twitter:title" content="Multi-Armed Bandits in Python: Epsilon Greedy, UCB1, Bayesian UCB, and EXP3">
-<meta name="twitter:image" content="http://jamesrledoux.com/images/fulls/sites.png">
+<meta name="twitter:image" content="http://jamesrledoux.com/images/fulls/final_bandit_results.png">
 
 In this post I discuss the multi-armed bandit problem and implementations of four specific bandit algorithms in Python (epsilon greedy, UCB1, a Bayesian UCB, and EXP3). I evaluate their performance as content recommendation systems on a real-world movie ratings dataset and provide simple, reproducible code for applying these algorithms to other tasks.
 
