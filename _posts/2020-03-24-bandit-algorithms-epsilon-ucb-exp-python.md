@@ -312,6 +312,8 @@ A second thing to consider is that none of these algorithms take into account in
 
 I would last like to thank [Jeremy](https://jeremykun.com/2013/11/08/adversarial-bandits-and-the-exp3-algorithm/) [Kun](https://jeremykun.com/2013/10/28/optimism-in-the-face-of-uncertainty-the-ucb1-algorithm/), [Lilian Weng](https://lilianweng.github.io/lil-log/2018/01/23/the-multi-armed-bandit-problem-and-its-solutions.html#upper-confidence-bounds), and [Noel Welsh](https://www.cs.bham.ac.uk/internal/courses/robotics/lectures/ucb1.pdf), whose resources I found very helpful in understanding the mathematics behind UCB1 and EXP3. I would recommend any of their above-linked resources for further reading on these topics.
 
+Code for this post can be found [on github](https://github.com/jldbc/bandits).
+
 ### Want to learn more about multi-armed bandit algorithms? I recommend reading [Bandit Algorithms for Website Optimization by John Myles White](https://www.amazon.com/Bandit-Algorithms-Website-Optimization-Developing/dp/1449341330?tag=ledoux-20).
 
 ![Bandits Book Cover](https://images-na.ssl-images-amazon.com/images/I/51sDue2Z-9L._SX375_BO1,204,203,200_.jpg)
