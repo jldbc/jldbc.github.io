@@ -171,27 +171,5 @@ __Currently Reading:__ Bayesian Data Analysis 3
 > The bible for any value investor. Graham’s Mr. Market illustration remains relevant today.
 
 
-# Literature & History
-
-### The Gatekeepers -- Chris Wipple
-
-> A history of every White House Chief of Staff and how they shaped their administrations. 
-
-### Lolita — Vladimir Nabokov
-
-> Bringing the reader into the mind of a pedophile, Nabokov combines a beautiful writing style with disturbing subject matter.
-
-### 1984 — George Orwell
-
-> One of my all time favorites.
-
-### A Portrait of the Artist as a Young Man — James Joyce
-
-> “Old father, old artificer, stand me now and ever in good stead.”
-
-### To the Lighthouse — Virginia Woolf
-
-> Another of my favorites on the literature side of things.
-
 __Updated:__ 2019/08/02
 
