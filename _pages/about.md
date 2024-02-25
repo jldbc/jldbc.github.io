@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I'm a Senior Machine Learning Engineer at Square, working on Cash App.
+I'm a Staff Machine Learning Engineer at Cash App. I was the first ML engineer working on Cash Card, our debit card offering. My team builds ML- and AI-powered products that keep Cash App's banking and card products safe and power user-facing experiences used by millions.
 
 Prior to this I was a Staff Data Scientist at BuzzFeed, where I built content recommendation systems and led its advertising data science discipline. Prior to that, I was a a Data Scientist at MLB Advanced Media and a Solutions Consultant and Automation Engineer at Google.
 
