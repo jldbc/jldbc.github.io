@@ -135,8 +135,10 @@ include:
   - .htaccess
   - _pages
   - code
+  - consulting
   - "_pages"
   - "code"
+  - "consulting"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
